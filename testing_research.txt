@@ -1,0 +1,26 @@
+SOFTWARE TESTING RESEARCH REPORT
+
+1. What is technology?
+Software Testing is a process used to identify the correctness, completeness, and quality of developed computer software. It includes Manual testing and Automation testing.
+
+2. Which framework you are using?
+In QA Automation, we mainly use the Page Object Model (POM) framework with TestNG or Cucumber BDD.
+
+3. Where it is used?
+It is used across all software development industries—including E-commerce, Banking, Healthcare, and Mobile Applications before going live to real users.
+
+4. Required Skillset:
+* Manual Testing Concepts (SDLC, STLC, Test Cases)
+* API Testing (Postman, RestAssured)
+* Database Testing (SQL Queries)
+* Automation Tools (Selenium with Java)
+* Version Control (Git and GitHub)
+
+5. Career Opportunities:
+* QA Intern / Trainee Engineer
+* Manual Test Engineer
+* Automation Test Engineer
+* QA Lead
+
+6. Future scope:
+The future of software testing is shifting towards AI-driven testing, DevOps integration (CI/CD pipelines with Jenkins), and modern frameworks like Playwright.
